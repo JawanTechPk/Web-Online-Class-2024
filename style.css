@@ -1,0 +1,13 @@
+/* #abc{
+    color:royalblue;
+    background-color: pink;
+}
+p.xyz{
+    color: brown;
+    background-color: chartreuse;
+} */
+
+h2~p{
+    color: coral;
+    background-color: blueviolet;
+}
